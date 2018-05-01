@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Baymack - Skylom - Flamzy - Grandool - Snuckls - VipBirdie
-// @version      0.9
+// @version      0.8
 // @updateURL    https://raw.githubusercontent.com/NHKN/auto-tampermonkey-baymack/master/source.js
 // @downloadURL  https://raw.githubusercontent.com/NHKN/auto-tampermonkey-baymack/master/source.js
 // @description  NHKN
