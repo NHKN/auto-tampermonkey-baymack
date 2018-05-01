@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Baymack - Skylom - Flamzy - Grandool - Snuckls - VipBirdie
-// @version      0.8
+// @version      0.9
 // @description  NHKN
 // @author       NHKN
 // @match        https://www.baymack.com/*
